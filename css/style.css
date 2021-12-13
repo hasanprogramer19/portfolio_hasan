@@ -5,7 +5,7 @@
 	color: black;
 }
 header{
-	background-color:#a60a05; 
+	background-color:#bf0d00; 
 	height: 70px;
 	width: 100%;	
 }
@@ -124,6 +124,7 @@ a {
 /* bagian about */
 section {
 	padding:50px 0;
+	background-color: #00fffb;
 }
 section h3 {
 	padding-bottom: 20px;
@@ -189,7 +190,7 @@ section h3::after {
 .ind:hover {
 	width: 	100%;
 }
-.pk:hover {
+.spk:hover {
 	width: 	70%;
 }
 .ti:hover {
@@ -244,3 +245,4 @@ section h3::after {
  	padding: 50px;
  	text-align: center;
  }
+© 2021 GitHub, Inc.
